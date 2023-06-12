@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #7dedff;
+  }
+  
+  #Pendidikan {
+    background-color: #7dedff;
+  }
+  #tugas {
+    background-color: #7dedff;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+  }
+  
+  .jumbotron img{
+    border-radius: 50%;
+    /* max-width: 300px; */
+    height: 300px;
+    width: 300px;
+  }
